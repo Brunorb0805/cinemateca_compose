@@ -1,10 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <!--    LIGHT   -->
+    <color name="primaryColor">#FBC02D</color>-->
+    <color name="primaryLightColor">#FFF263</color>
+    <color name="onPrimaryColor">#000000</color>
+
+    <color name="secondaryColor">#FF6F00</color>
+    <color name="secondaryLightColor">#FFA040</color>
+    <color name="onSecondaryColor">#000000</color>
+
+    <color name="tertiaryColor">#BD5301</color>
+    <color name="tertiaryLightColor">#BC762F</color>
+    <color name="onTertiaryColor">#000000</color>
+
+    <color name="backgroundColor">#FFFFFF</color>
+    <color name="surfaceColor">#FFFFFF</color>
+    <color name="errorColor">#8E0000</color>
+
+    <color name="onBackgroundColor">#FF03DAC5</color>
+    <color name="onSurfaceColor">#FFBB86FC</color>
+    <color name="onErrorColor">#ff5f52</color>
+
+
+    <!--    DARK   -->
+    <color name="dark_primaryColor">#5C4611</color>-->
+    <color name="dark_primaryLightColor">#4E491E</color>
+    <color name="dark_onPrimaryColor">#000000</color>
+
+    <color name="dark_secondaryColor">#672D01</color>
+    <color name="dark_secondaryLightColor">#71471C</color>
+    <color name="dark_onSecondaryColor">#000000</color>
+
+    <color name="dark_tertiaryColor">#401C01</color>
+    <color name="dark_tertiaryLightColor">#3E2710</color>
+    <color name="dark_onTertiaryColor">#000000</color>
+
+    <color name="dark_backgroundColor">#000000</color>
+    <color name="dark_surfaceColor">#000000</color>
+    <color name="dark_errorColor">#5A0101</color>
+
+    <color name="dark_onBackgroundColor">#004740</color>
+    <color name="dark_onSurfaceColor">#45315C</color>
+    <color name="dark_onErrorColor">#491B17</color>
+
+    <color name="white_snow">#ffFFFFFF</color>
+
 </resources>
