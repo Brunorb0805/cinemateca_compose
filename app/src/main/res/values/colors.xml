@@ -25,7 +25,7 @@
     <!--    DARK   -->
     <color name="dark_primaryColor">#5C4611</color>-->
     <color name="dark_primaryLightColor">#4E491E</color>
-    <color name="dark_onPrimaryColor">#000000</color>
+    <color name="dark_onPrimaryColor">#DDDDDD</color>
 
     <color name="dark_secondaryColor">#672D01</color>
     <color name="dark_secondaryLightColor">#71471C</color>
